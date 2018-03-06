@@ -26,4 +26,6 @@ The following content types should be present on the website.
 ## Knowledge prerequisites
 Good Layout designing and coding experience with backend (Django, JavaScript, HTML/CSS, Mongo).
 
+## Check out the example above with name Sugar-Labs-Social 
+
 ## Happy Coding :)
