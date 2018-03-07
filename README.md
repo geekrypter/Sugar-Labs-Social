@@ -26,6 +26,12 @@ The following content types should be present on the website.
 ## Knowledge prerequisites
 Good Layout designing and coding experience with backend (Django, JavaScript, HTML/CSS, Mongo).
 
-## Check out the example above with name Sugar-Labs-Social 
+## Check out the example below
+![](Social_Site.jpg)
+
+## Potential Mentors of the project
+- Hrishi Patel (Github - [Hrishi](https://github.com/Hrishi1999))(Email - hrishipatel99@gmail.com)
+- Samson Goddy (Github - [samswag](https://github.com/samswag))(Email - samsongoddy@gmail.com)
+- Seetarama Raju (Github - [geekrypter](https://github.com/geekrypter))(Email - psramaraju@gmail.com)
 
 ## Happy Coding :)
