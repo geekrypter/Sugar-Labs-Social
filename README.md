@@ -26,6 +26,13 @@ The following content types should be present on the website.
 ## Knowledge prerequisites
 Good Layout designing and coding experience with backend (Django, JavaScript, HTML/CSS, Mongo).
 
+## Tasks which can be done during the proposal period
+- Creating design mocks ups of the website
+- Preparing a clear overview of the architecture of the project (frontend + backend)
+
+ ### Note
+ During the proposal period, we are not expecting any coding part to be done but we expect the above tasks.
+
 ## Check out the example below
 ![](Social_Site.jpg)
 
