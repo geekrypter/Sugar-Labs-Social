@@ -40,5 +40,6 @@ Good Layout designing and coding experience with backend (Django, JavaScript, HT
 - Hrishi Patel (Github - [Hrishi](https://github.com/Hrishi1999))(Email - hrishipatel99@gmail.com)
 - Samson Goddy (Github - [samswag](https://github.com/samswag))(Email - samsongoddy@gmail.com)
 - Seetarama Raju (Github - [geekrypter](https://github.com/geekrypter))(Email - psramaraju@gmail.com)
+- Divyanshu Rawat (Email - divyanshu.r46956@gmail.com)
 
 ## Happy Coding :)
