@@ -1,8 +1,8 @@
 # Sugar Labs Social
 ## Brief explanation
-Sugar Labs Social is a website project which should serve a purpose to help people understand and discuss project(s) around Sugar Labs. The goal of this project is to attract Teachers, Parents, Developers and fully communicate together in one platform. It's a social website that can be used to attract maximum users and everything ( Blogs, New projects, Software, Activities, etc) can be uploaded on it which will attract more user and create their interest. A competitive proposal must include some evidence that the approach taken will result in some use and just because we build it doesn't mean they will come.
+Sugar Labs Social is a website project which should serve a purpose to help people understand and discuss project(s) around Sugar Labs. The goal of this project is to attract Teachers, Parents, Developers and aid communication all in one platform. It's a social website that can be used to attract maximum users and everything ( Blogs, New projects, Software, Activities, etc), users can upload on it which will attract more users and create their interest. A competitive proposal must include some evidence that the approach taken will result in some use and just because we build it doesn't mean they will come.
 ## Development of the website
-The website needs to be developed from scratch and third party tools such as Wordpress, Joomla, etc. should not be used for developing the website. However, third party services can be used when adding features to the website.
+The website needs to be developed from scratch as no third party development tools such as Wordpress, Joomla, etc would be used. However, third party services can be used when adding features to the website.
 
 ## Content on the website
 The following content types should be present on the website.
